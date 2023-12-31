@@ -4,9 +4,9 @@
   </a>
 </div>
 
-### About Me:
+### A Bit About Me:
 
-Hi my name's Jonathan, I support professional Data Analysts and Data Scientists to enhance their skills by coaching them through the United Kingdom's Level 4 Data Analyst apprenticeship. I deliver online workshops on ETL processes, SQL, Tableau, Power BI, Python, R, version control, hypothesis testing, time-series analysis, regression modelling, and NLP methods. I support my learners to apply the methods tought in the workshops during regular 1:1 coaching sessions - making sure they're able to apply their new skills to the the problems that matter to them. In my spare time I enjoy reading about new data analysis methods and attending conferences to keep on top of the latest developments.
+Hi my name's Jonathan, I support professional Data Analysts and Data Scientists enhance their skills by coaching them through the United Kingdom's Level 4 Data Analyst apprenticeship. I deliver online workshops on ETL processes, SQL, Tableau, Power BI, Python, R, version control, hypothesis testing, time-series analysis, regression modelling, and NLP methods. I support my learners to apply the methods tought in the workshops during regular 1:1 coaching sessions - making sure they're able to apply their new skills to the the problems that matter to them. In my spare time I enjoy reading about new data analysis methods and attending conferences to keep on top of the latest developments.
 
 ### Favourite Languages & Tools:
 <div>
