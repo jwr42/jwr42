@@ -16,6 +16,7 @@ Hi my name's Jonathan, I support professional Data Analysts and Data Scientists 
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width=40 height=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width=40 height=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width=40 height=40 />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width=40 height=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width=40 height=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width=40 height=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width=40 height=40 />
