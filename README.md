@@ -12,6 +12,7 @@ Hi my name's Jonathan, I support professional Data Analysts and Data Scientists 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width=40 height=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width=40 height=40 />
+  <img src="https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg" title="Power BI" alt="Power BI" width=40 height=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width=40 height=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width=40 height=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width=40 height=40 />
