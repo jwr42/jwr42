@@ -11,6 +11,7 @@ My name's Jonathan, I support professional Data Analysts and Data Scientists enh
 ### Favourite Languages & Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width=40 height=40 />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width=40 height=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width=40 height=40 />
   <img src="https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg" title="Power BI" alt="Power BI" width=40 height=40 />
   <img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" title="Tableau" alt="Tableau" width=40 height=40 />
@@ -22,7 +23,7 @@ My name's Jonathan, I support professional Data Analysts and Data Scientists enh
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width=40 height=40 />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm" alt="PyCharm" width=40 height=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width=40 height=40 />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width=40 height=40 />
+  <img src="https://wiki.videolan.org/images/MacOS_logo.png" title="MacOS" alt="MacOS" width=40 height=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width=40 height=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width=40 height=40 />
 </div>
