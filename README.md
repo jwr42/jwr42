@@ -10,12 +10,8 @@ My name's Jonathan, I support professional Data Analysts and Data Scientists enh
 
 ### Favourite Languages & Tools:
 <div>
-  <a href="https://www.python.org/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width=40 height=40 />
-  </a>
-  <a href="https://scikit-learn.org/stable/")>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width=40 height=40 />
-  </a>
+  <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width=40 height=40 /></a>
+  <a href="https://scikit-learn.org/stable/")><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width=40 height=40 /></a>
   <a href="https://pandas.pydata.org/")> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width=40 height=40 />
   </a>
