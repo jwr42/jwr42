@@ -13,6 +13,8 @@ My name's Jonathan, I support professional Data Analysts and Data Scientists enh
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width=40 height=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width=40 height=40 />
   <img src="https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg" title="Power BI" alt="Power BI" width=40 height=40 />
+  <img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" title="Tableau" alt="Tableau" width=40 height=40 />
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width=40 height=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width=40 height=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width=40 height=40 />
