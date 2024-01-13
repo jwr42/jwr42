@@ -14,8 +14,8 @@ My name's Jonathan, I support professional Data Analysts and Data Scientists enh
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width=40 height=40 />
   <img src="https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg" title="Power BI" alt="Power BI" width=40 height=40 />
   <img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" title="Tableau" alt="Tableau" width=40 height=40 />
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width=40 height=40 />
+  <img src="https://images.prismic.io/sacra/8c4e2406-d9ab-466a-8799-acaebb3bcb34_dbt-logo-500AB0BAA7-seeklogo.com.png" title="DBT" alt="DBT" width=40 height=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width=40 height=40 />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width=40 height=40 />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width=40 height=40 />
