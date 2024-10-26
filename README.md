@@ -4,10 +4,6 @@
   </a>
 </div>
 
-### A Bit About Me:
-
-My name's Jonathan, I support professional Data Analysts and Data Scientists enhance their skills by coaching them through the United Kingdom's Level 4 Data Analyst apprenticeship. I deliver online workshops on ETL processes, data models, SQL, data visualisations, Python programming, version control, hypothesis testing, time-series analysis, and regression modelling methods. I support learners to apply the methods tought in the workshops with regular 1:1 coaching sessions - making sure they're able to apply their new skills to the problems that matter to them. In my spare time I enjoy reading about new data analysis methods and attending conferences to keep up with the latest developments.
-
 ### Favourite Languages & Tools:
 <div>
   <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width=40 height=40 /></a>
