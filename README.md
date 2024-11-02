@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/jonathanroberts93/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
-  </a>
-</div>
-
 ### Favourite Languages & Tools:
 <div>
   <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width=40 height=40 /></a>
