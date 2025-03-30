@@ -7,7 +7,6 @@
   <a href="https://scikit-learn.org/stable/")><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width=40 height=40 /></a>
   <a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width=40 height=40 /></a>
   <a href="https://powerbi.microsoft.com/en-gb/getting-started-with-power-bi/"><img src="https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg" title="Power BI" alt="Power BI" width=40 height=40 /></a>
-  <a href="https://www.tableau.com/en-gb/products/desktop"><img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" title="Tableau" alt="Tableau" width=40 height=40 /></a>
   <a href="https://julialang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width=40 height=40 /></a>
   <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width=40 height=40 /></a>
 </div>
