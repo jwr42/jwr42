@@ -1,4 +1,4 @@
-### Favourite Languages & Tools:
+### Favourite Tools:
 <div>
   <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width=40 height=40 /></a>
   <a href="https://docs.astral.sh/uv/"><img src=https://docs.astral.sh/uv/assets/logo-letter.svg title="uv" alt="uv" width=40 height=40 /></a>
